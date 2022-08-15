@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: 'c41e03f7151f4ca3a7d1adf0c95f6596',
+  rootNotionPageId: '277f46aa46e84e359480c519f15f28f2',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'dinosamw',
-  domain: 'https://www.notion.so/dinosamw/Dinosamw-c41e03f7151f4ca3a7d1adf0c95f6596',
+  domain: 'https://www.notion.so/dinosamw/277f46aa46e84e359480c519f15f28f2',
   author: 'dino',
 
   // open graph metadata (optional)
